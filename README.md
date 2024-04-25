@@ -1,16 +1,6 @@
 # chatt_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_٢٠٢٤٠٤٢٥-١٣٢٣١٣](https://github.com/IslamAli11/chatt_app/assets/84982341/8d1df20b-190e-4d81-9894-badb150a3745)
+![Screenshot_٢٠٢٤٠٤٢٥-١٣٢٤١٣](https://github.com/IslamAli11/chatt_app/assets/84982341/fde3e005-c664-4663-ac67-9fa0dbe4d479)
+![Screenshot_٢٠٢٤٠٤٢٥-١٣٢٢٤٨](https://github.com/IslamAli11/chatt_app/assets/84982341/2dc74e92-4260-496d-9410-8c70a42b6a26)
+![Screenshot_٢٠٢٤٠٤٢٥-١٣٢٣٢١](https://github.com/IslamAli11/chatt_app/assets/84982341/ffe67ff3-e62e-4a0d-a660-9777e1e08f60)
